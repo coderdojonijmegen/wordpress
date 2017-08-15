@@ -1,0 +1,17 @@
+body { font-family: 'Noto Sans', sans-serif; }
+
+h1 { text-align: center; margin-bottom: 60px; border-bottom: 1px solid #888; border-radius: 5px; }
+h2 { border-bottom: 1px solid #888; background-color: #F6F6FF; padding-left: 30px; }
+h3 { border-bottom: 1px solid #888; padding-left: 10px; }
+ul { list-style-type: none; }
+ul li:before { content: "-"; padding-right: 5px; }
+
+.inhoud li { list-style-type: none; }
+.inhoud li:before { content: ""; }
+.terug { float: right; padding-right: 10px; padding-top: 6px; }
+.terug a { text-decoration: none; }
+.content { margin: 0 auto; margin-top: 50px; width: 1024px; padding: 5px; }
+.gecentreerd img { max-width: 950px; }
+.footer { text-align: center; font-size: x-small; margin-top: 80px; padding-top: 30px; margin-bottom: 50px; border-top: 1px solid #888; }
+.footer .nijmegen { margin-top: 10px; margin-bottom: 30px; }
+.footer .github { margin: 30px; }
