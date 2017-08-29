@@ -11,6 +11,7 @@ ul li:before { content: "-"; padding-right: 5px; }
 .terug { float: right; padding-right: 10px; padding-top: 6px; }
 .terug a { text-decoration: none; }
 .content { margin: 0 auto; margin-top: 50px; width: 1024px; padding: 5px; }
+.gecentreerd { width: 100%; text-align: center; }
 .gecentreerd img { max-width: 950px; }
 .footer { text-align: center; font-size: x-small; margin-top: 80px; padding-top: 30px; margin-bottom: 50px; border-top: 1px solid #888; }
 .footer .nijmegen { margin-top: 10px; margin-bottom: 30px; }
